@@ -3,7 +3,6 @@
 --------------
 * [Introduction](#Introduction)
 * [Requirements](#Requirements)
-* [Install](#Install)
 * [Issues](#Issues)
 * [Copyright](#Copyright)
 * [Authors](#Authors)
